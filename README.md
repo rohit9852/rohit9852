@@ -25,8 +25,6 @@ Skills:  REACT / JS / HTML / CSS/ PYTHON / mongoDB / Data structure & algorithm
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohit9852)  
 
-![GitHub metrics](https://metrics.lecoq.io/rohit9852)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohit9852)  
 
 ![Profile views](https://gpvc.arturio.dev/rohit9852)  
