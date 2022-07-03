@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rohit</h1>
-<h3 align="center">A passionate Full stack developer from International</h3>
+<h3 align="center">A passionate Full stack developer from <span color='red'>India</span></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohit9852" alt="rohit9852" /></a> </p>
 
